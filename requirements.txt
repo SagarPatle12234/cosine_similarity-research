@@ -1,0 +1,1 @@
+numpy matplotlib opencv-python scikit-learn notebook torch cohere tensorflow
